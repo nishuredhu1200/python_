@@ -14,7 +14,7 @@ marks= ['mahi', 7.8, 7+8j] # list
 print(marks,"   :ex of list data type") 
 x={ 3,5,6,4,3,5,6,3,5,67} #set 
 print(x," : ex of set data type") 
-x=(
+x=(-
     65, 7.9, 76+8j
 ) # tuple
 print(x,": ex of tuple ")
