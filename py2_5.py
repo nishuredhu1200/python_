@@ -1,0 +1,4 @@
+#print a pyramid pattern 
+rows=6
+for i in range (1,rows+1):
+    print ( ' ' * ( rows - i) + '* ' * (1 * i - 1))
